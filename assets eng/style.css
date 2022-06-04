@@ -1,0 +1,113 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?j9f1ib');
+  src:  url('fonts/icomoon.eot?j9f1ib#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?j9f1ib') format('truetype'),
+    url('fonts/icomoon.woff?j9f1ib') format('woff'),
+    url('fonts/icomoon.svg?j9f1ib#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-phone:before {
+  content: "\e900";
+}
+.icon-close:before {
+  content: "\e901";
+}
+.icon-enginer-2:before {
+  content: "\e902";
+}
+.icon-enginer:before {
+  content: "\e903";
+}
+.icon-facebook:before {
+  content: "\e904";
+}
+.icon-inspection:before {
+  content: "\e905";
+}
+.icon-instagram:before {
+  content: "\e906";
+}
+.icon-mail:before {
+  content: "\e907";
+}
+.icon-map-pin:before {
+  content: "\e908";
+}
+.icon-project .path1:before {
+  content: "\e909";
+}
+.icon-project .path2:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(0, 150, 152);
+}
+.icon-project .path3:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(255, 218, 170);
+}
+.icon-project .path4:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(87, 164, 255);
+}
+.icon-project .path5:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(198, 197, 202);
+}
+.icon-project .path6:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(255, 196, 119);
+}
+.icon-project .path7:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(172, 171, 177);
+}
+.icon-project .path8:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(87, 164, 255);
+}
+.icon-project .path9:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-project .path10:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-project .path11:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-whatsapp:before {
+  content: "\e914";
+}
+.icon-youtube:before {
+  content: "\e915";
+}
